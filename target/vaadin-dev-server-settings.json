@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/A200011928/IdeaProjects/q-ai-chatbot/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/A200011928/IdeaProjects/q-ai-chatbot/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/A200011928/IdeaProjects/q-ai-chatbot/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/A200011928/IdeaProjects/q-ai-chatbot/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/A200011928/IdeaProjects/q-ai-chatbot/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/A200011928/IdeaProjects/q-ai-chatbot/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/A200011928/IdeaProjects/q-ai-chatbot/target/dev-bundle/config",
+  "i18nOutput": "target/classes/vaadin-i18n",
+  "jarResourcesFolder": "/Users/A200011928/IdeaProjects/q-ai-chatbot/./src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/Users/A200011928/IdeaProjects/q-ai-chatbot/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
