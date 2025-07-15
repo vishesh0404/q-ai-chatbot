@@ -42,7 +42,7 @@ public final class MainLayout extends AppLayout {
         var appLogo = VaadinIcon.CUBES.create();
         appLogo.addClassNames(TextColor.PRIMARY, IconSize.LARGE);
 
-        var appName = new Span("Q Ai Chatbot");
+        var appName = new Span("Query Ai Chatbot");
         appName.addClassNames(FontWeight.SEMIBOLD, FontSize.LARGE);
 
         var header = new Div(appLogo, appName);

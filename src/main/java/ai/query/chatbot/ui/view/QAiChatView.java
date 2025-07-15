@@ -24,11 +24,11 @@ import java.util.Collections;
 @Menu(order = 0, icon = "vaadin:clipboard-check", title = "Chat Bot")
 public class QAiChatView extends VerticalLayout {
 
-    @Value("${qai.base-url}")
-    String baseUrl;
+    //@Value("${qai.base-url}")
+    String baseUrl = "http://localhost:8080";
 
-    @Value("${qai.chat-path}")
-    String chatPath;
+    //@Value("${qai.chat-path}")
+    String chatPath = "/ai/chat";
 
     private final WebClient webClient;
 

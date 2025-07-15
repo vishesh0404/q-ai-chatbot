@@ -11,10 +11,10 @@ import com.vaadin.flow.router.Route;
 import jakarta.annotation.security.PermitAll;
 import org.springframework.web.reactive.function.client.WebClient;
 
-@Route("chat")
-@PageTitle("Chat Bot")
-@Menu(order = 0, icon = "vaadin:clipboard-check", title = "Chat Bot")
-@PermitAll // When security is enabled, allow all authenticated users
+//@Route("chat-old")
+//@PageTitle("Chat Bot - old")
+//@Menu(order = 0, icon = "vaadin:clipboard-check", title = "Chat Bot - old")
+//@PermitAll // When security is enabled, allow all authenticated users
 public class ChatView extends VerticalLayout {
 
     private final WebClient webClient;
